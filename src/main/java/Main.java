@@ -11,5 +11,9 @@ public class Main {
         System.out.println("This is the Third  Change");
 
         System.out.println("This is the Fourth  Change");
+
+        System.out.println("Add this is Git Staging Area");
+
+        System.out.println("Add this is Local Area testing");
     }
 }
