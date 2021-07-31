@@ -7,5 +7,9 @@ public class Main {
         System.out.println("This is the first Change which will move to Repository");
 
         System.out.println("This is the Second Change");
+
+        System.out.println("This is the Third  Change");
+
+        System.out.println("This is the Fourth  Change");
     }
 }
